@@ -1,0 +1,170 @@
+html {
+    background-color: #ffffff;
+}
+
+body {
+    width: 700px;
+    color: #333;
+    margin: 0 auto;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    font-family: Ubuntu, sans-serif;
+}
+
+p {
+font-size: 24px;
+line-height: 1.5;
+}
+
+h1 {
+    font-size: 72px;
+    }
+    
+h1, h2, h3, h4, h5, h6 {
+    color: #222;
+    font-weight: 600;
+    line-height: 1.3em;
+}
+
+h2 {
+    margin-top: 1.3em;
+}
+
+a {
+   text-decoration: none;
+background: #48D1CC;
+padding: 3px 6px;
+color: #000;
+}
+
+
+.icons {
+    margin: 0 -5px;
+    padding: 1.5em 0;
+}
+
+.icons:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.icons li {
+    float: left;
+    display: inline-block;
+}
+
+.icons li a {
+    display: inline-block;
+    height: 64px;
+    width: 64px;
+    background-size: 64px 64px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin: 5px;
+    text-indent: -9999em
+}
+
+.ic-twitter {
+    background-color: #48D1CC;
+    background-image: url(http://www.davidbauer.ch/_rsrc/icons/twitter/twitter-64.png);
+}
+
+.ic-facebook {
+    background-color: #48D1CC;
+    background-image: url(http://www.davidbauer.ch/_rsrc/icons/facebook/facebook-64.png);
+}
+
+.ic-github {
+    background-color: #48D1CC;
+    background-image: url(http://www.davidbauer.ch/_rsrc/icons/github/github-64.png);
+}
+
+.ic-tumblr {
+    background-color: #48D1CC;
+    background-image: url(http://www.davidbauer.ch/_rsrc/icons/tumblr/tumblr-64.png);
+}
+
+.ic-kippt {
+    background-color: #48D1CC;
+    background-image: url(http://www.davidbauer.ch/_rsrc/icons/kippt/kippt-64.png);
+}
+
+.ic-foursquare {
+    background-color: #48D1CC;
+    background-image: url(http://www.davidbauer.ch/_rsrc/icons/foursquare/foursquare-64.png);
+}
+
+.ic-storify {
+    background-color: #48D1CC;
+    background-image: url(http://www.davidbauer.ch/_rsrc/icons/storify/storify-64.png);
+}
+
+.ic-spotify {
+    background-color: #48D1CC;
+    background-image: url(http://www.davidbauer.ch/_rsrc/icons/spotify/spotify-64.png);
+}
+
+.ic-reddit {
+    background-color: #48D1CC;
+    background-image: url(http://www.davidbauer.ch/_rsrc/icons/reddit/reddit-64.png);
+}
+
+.ic-googleplus {
+    background-color: #48D1CC;
+    background-image: url(http://www.davidbauer.ch/_rsrc/icons/googleplus/googleplus-64.png);
+}
+
+.ic-quora {
+    background-color: #48D1CC;
+    background-image: url(http://www.davidbauer.ch/_rsrc/icons/quora/quora-64.png);
+}
+
+.ic-medium {
+    background-color: #48D1CC;
+    background-image: url(http://www.davidbauer.ch/_rsrc/icons/medium/medium-64.png);
+}
+
+.ic-flattr {
+    background-color: #48D1CC;
+    background-image: url(http://www.davidbauer.ch/_rsrc/icons/flattr/flattr-64.png);
+}
+
+.ic-speakerdeck {
+    background-color: #396;
+    /*background-image: url(http://www.davidbauer.ch/_rsrc/icons/speakerdeck/speakerdeck-64.png);*/
+}
+
+.ic-codecademy {
+    background-color: #48D1CC;
+    background-image: url(http://www.davidbauer.ch/_rsrc/icons/codecademy/codecademy-64.png);
+}
+
+.ic-wikipedia {
+    background-color: #000000;
+    background-image: url(http://www.davidbauer.ch/_rsrc/icons/wikipedia/wikipedia-64.png);
+}
+
+.ic-tageswoche {
+    background-color: #ffffff;
+    background-image: url(http://www.davidbauer.ch/_rsrc/icons/tageswoche/tageswoche-64.png);
+}
+
+.ic-instagram {
+    background-color: #48D1CC;
+    background-image: url(http://www.davidbauer.ch/_rsrc/icons/instagram/instagram-64.png);
+}
+
+.ic-portfolio {
+    background-color: #48D1CC;
+    background-image: url(http://drp.io/lyf);
+ }   
+
+b, strong {
+    font-weight: 600;
+}
+
+samp {
+    display: none;
+}
+    }
