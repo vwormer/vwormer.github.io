@@ -67,50 +67,46 @@ color: #000;
 
 .ic-twitter {
     background-color: #48D1CC;
-    background-image: url(icons/twitter-64.png);
+    background-image: url(/icons/twitter-64.png);
 }
 
 .ic-facebook {
     background-color: #48D1CC;
-    background-image: url(icons/facebook-64.png);
+    background-image: url(/icons//facebook-64.png);
 }
 
 .ic-github {
     background-color: #48D1CC;
-    background-image: url(icons/github-64.png);
+    background-image: url(/icons/github-64.png);
 }
 
 .ic-tumblr {
     background-color: #48D1CC;
-    background-image: url(icons/tumblr-64.png);
+    background-image: url(/icons/tumblr-64.png);
 }
 
 .ic-googleplus {
     background-color: #48D1CC;
-    background-image: url(icons/googleplus-64.png);
+    background-image: url(/icons/googleplus-64.png);
 }
 
 
 .ic-medium {
     background-color: #48D1CC;
-    background-image: url(icons/medium-64_trans.png);
+    background-image: url(/icons/medium-64_trans.png);
 }
 
 .ic-codecademy {
     background-color: #48D1CC;
-    background-image: url(icons/codecademy-64.png);
+    background-image: url(/icons/codecademy-64.png);
 }
 
 
 .ic-instagram {
     background-color: #48D1CC;
-    background-image: url(icons/instagram-64.png);
+    background-image: url(/icons/instagram-64.png);
 }
 
-.ic-portfolio {
-    background-color: #48D1CC;
-    background-image: url(icons/http://drp.io/lyf);
- }   
 
 b, strong {
     font-weight: 600;
