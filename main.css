@@ -107,6 +107,11 @@ color: #000;
     background-image: url(/icons/instagram-64.png);
 }
 
+.ic-portfolio {
+    background-color: #48D1CC;
+    background-image: url(/icons/portfolio.png);
+}
+
 
 b, strong {
     font-weight: 600;
