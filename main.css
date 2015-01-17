@@ -109,7 +109,7 @@ color: #000;
 
 .portfolio {
     background-color: #48D1CC;
-    background-image: url(Portfolio.png);
+    background-image: url(/Portfolio.png);
 }
 
 b, strong {
