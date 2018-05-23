@@ -16,10 +16,11 @@ p {
     line-height: 1.5;
     }
 
-p2 {
-    font-size: 12px;
-    line-height: 1.5;
-    }
+<style type="text/css">
+.klein {font-size: 12px;}
+.mittel {font-size: 18px;}
+.gross {font-size: 24;}
+</style>
 
 h1 {
     font-size: 72px;
